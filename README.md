@@ -10,7 +10,7 @@ Curated content about RabbitMQ
 * [Reliable Messaging with RabbitMQ - Part 2 - Store And Forward Queues](https://youtu.be/Dg6k4PR-a6w)
 * [RabbitMQ is the new king](https://www.youtube.com/watch?v=kA8rPIDa388)
 
-## High-level overview of Producer-Exchange-Queue-Consumer configurations
+## Producer-Exchange-Queue-Consumer configurations
  * [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html) [Configuration examples, Diagrams]
 
 ## Let's play with it !
