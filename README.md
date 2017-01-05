@@ -12,4 +12,4 @@ Curated content about RabbitMQ
 
 ## Let's play with it !
 
-* [RabbitMQ simulator](http://tryrabbitmq.com/)
+* [RabbitMQ simulator/designer](http://tryrabbitmq.com/)
